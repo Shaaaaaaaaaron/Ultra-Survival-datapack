@@ -3,7 +3,7 @@ Coop challenge datapack for Minecraft 1.16
 
 Game mode idea by ElRichMC, I just wanted to make it into a datapack :)
 
-**[Download the datapack]**
+**[Download the datapack](https://github.com/Shaaaaaaaaaron/Ultra-Survival-datapack/releases)**
 
 [Planet Minecraft page]() (suppor is appreciated) <3
 
