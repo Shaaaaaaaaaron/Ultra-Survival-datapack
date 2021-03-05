@@ -5,7 +5,7 @@ Game mode idea by ElRichMC, I just wanted to make it into a datapack :)
 
 **[Download the datapack](https://github.com/Shaaaaaaaaaron/Ultra-Survival-datapack/releases)**
 
-[Planet Minecraft page](https://www.planetminecraft.com/data-pack/ultra-survival-5004553/) (suppor is appreciated) <3
+[Planet Minecraft page](https://www.planetminecraft.com/data-pack/ultra-survival-5004553/) (support is appreciated) <3
 
 ## About
 - This is a cooperative mode, and it needs 2 or more players in order to work
